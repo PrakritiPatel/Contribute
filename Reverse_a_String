@@ -1,4 +1,5 @@
-import java.util.Scanner;
+ // Asimple java program to reverse a string
+ import java.util.Scanner;
 
 public class ReverseString {
     public static void main(String[] args) {
